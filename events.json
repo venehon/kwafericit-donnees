@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-10-23T01:14:26Z",
+ "generatedAt": "2026-10-23T12:17:47Z",
  "count": 179,
  "events": [
   {
@@ -20,8 +20,11 @@
    "organisateur": "Commission de la capitale nationale",
    "source": "https://www.canada.ca/en/canadian-heritage/campaigns/winterlude.html",
    "id": "bal-de-neige--gatineau",
-   "lat": 45.4765,
-   "lng": -75.7013
+   "lieu": "Domaine des flocons, secteur nord du parc Jacques-Cartier",
+   "lieuSource": "https://www.canada.ca/fr/patrimoine-canadien/campagnes/bal-neige/domaine-flocons.html",
+   "coordsPrecises": true,
+   "lat": 45.43704,
+   "lng": -75.70774
   },
   {
    "nom": "Igloofest",
@@ -40,8 +43,10 @@
    "organisateur": "Igloofest / Piknic Électronik",
    "source": "https://igloofest.ca/",
    "id": "igloofest--montreal",
-   "lat": 45.5017,
-   "lng": -73.5673
+   "lieu": "Quai Jacques-Cartier, Vieux-Port",
+   "coordsPrecises": true,
+   "lat": 45.50731,
+   "lng": -73.54877
   },
   {
    "nom": "Fête des Neiges de Montréal",
@@ -58,8 +63,11 @@
    "organisateur": "Société du parc Jean-Drapeau",
    "infos": "Toujours active, au parc Jean-Drapeau. Dates exactes pas encore publiées (habituellement janvier–février).",
    "id": "fete-des-neiges-de-montreal--montreal",
-   "lat": 45.5017,
-   "lng": -73.5673
+   "lieu": "Parc Jean-Drapeau",
+   "lieuSource": "https://www.parcjeandrapeau.com/files/publications/the_fete_des_neiges_de_montreal_starts_this_saturday_at_parc_jean_drapeau.pdf",
+   "coordsPrecises": true,
+   "lat": 45.51386,
+   "lng": -73.53433
   },
   {
    "nom": "Carnaval de Québec",
@@ -78,8 +86,11 @@
    "organisateur": "Carnaval de Québec inc.",
    "source": "https://carnaval.qc.ca/en/",
    "id": "carnaval-de-quebec--quebec",
-   "lat": 46.8139,
-   "lng": -71.208
+   "lieu": "Plaines d'Abraham (site principal) et Vieux-Québec",
+   "lieuSource": "https://en.wikipedia.org/wiki/Quebec_Winter_Carnival",
+   "coordsPrecises": true,
+   "lat": 46.79766,
+   "lng": -71.22883
   },
   {
    "nom": "Festival Orford Musique",
@@ -100,8 +111,11 @@
    "organisateur": "Orford Musique",
    "source": "https://www.orford.mu/",
    "id": "festival-orford-musique--orford",
-   "lat": 45.3167,
-   "lng": -72.2333
+   "lieu": "Orford Musique",
+   "adresse": "3165, chemin du Parc, Orford",
+   "coordsPrecises": true,
+   "lat": 45.32178,
+   "lng": -72.18293
   },
   {
    "nom": "Festival International du Domaine Forget",
@@ -122,8 +136,11 @@
    "organisateur": "Domaine Forget de Charlevoix",
    "source": "https://www.domaineforget.com/en/international-festival/",
    "id": "festival-international-du-domaine-forget--saint-irenee-charlevoix",
-   "lat": 47.5833,
-   "lng": -70.2833
+   "lieu": "Domaine Forget",
+   "adresse": "5, rang Saint-Antoine, Saint-Irénée",
+   "coordsPrecises": true,
+   "lat": 47.56379,
+   "lng": -70.20806
   },
   {
    "nom": "Festival International de Jazz de Montréal",
@@ -143,8 +160,11 @@
    "organisateur": "Festival International de Jazz de Montréal",
    "source": "https://montrealjazzfest.com/",
    "id": "festival-international-de-jazz-de-montreal--montreal",
-   "lat": 45.5017,
-   "lng": -73.5673
+   "lieu": "Quartier des spectacles",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festival/festival-international-de-jazz-de-montreal/",
+   "coordsPrecises": true,
+   "lat": 45.512,
+   "lng": -73.563
   },
   {
    "nom": "Fête nationale du Québec",
@@ -184,8 +204,12 @@
    "source": "https://lepointdevente.com/billets/5m3260828001",
    "infos": "A pris le relais de l'ancien Festival du Bûcheron, qui n'a plus d'édition annuelle.",
    "id": "festival-d-ete-de-maniwaki--maniwaki",
-   "lat": 46.3778,
-   "lng": -75.9678
+   "lieu": "Centre sportif Gino-Odjick",
+   "adresse": "118, rue Laurier, Maniwaki",
+   "lieuSource": "https://lepointdevente.com/billets/5m3260828001",
+   "coordsPrecises": true,
+   "lat": 46.37803,
+   "lng": -75.97724
   },
   {
    "nom": "Festival en Chanson de Petite-Vallée",
@@ -205,8 +229,11 @@
    "organisateur": "Festival en chanson de Petite-Vallée",
    "source": "https://festivalenchanson.com/le-festival-en-chanson-de-petite-vallee-annonce-les-premiers-spectacles-de-sa-43e-edition/",
    "id": "festival-en-chanson-de-petite-vallee--petite-vallee",
-   "lat": 49.2333,
-   "lng": -65.1167
+   "adresse": "4, rue de la Longue-Pointe, Petite-Vallée",
+   "lieuSource": "https://www.bonjourquebec.com/fr/repertoire/evenements/festival-en-chanson-de-petite-vallee/0omk",
+   "coordsPrecises": true,
+   "lat": 49.22252,
+   "lng": -65.04583
   },
   {
    "nom": "Festival d'été de Québec",
@@ -225,8 +252,11 @@
    "organisateur": "Festival d'été de Québec inc.",
    "source": "https://www.feq.ca/en",
    "id": "festival-d-ete-de-quebec--quebec",
-   "lat": 46.8139,
-   "lng": -71.208
+   "lieu": "Plaines d'Abraham (scène principale) et autres scènes",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festival/festival-dete-de-quebec/",
+   "coordsPrecises": true,
+   "lat": 46.79766,
+   "lng": -71.22883
   },
   {
    "nom": "Just pour rire",
@@ -245,8 +275,11 @@
    "organisateur": "Groupe Juste pour rire",
    "source": "https://en.wikipedia.org/wiki/Just_for_Laughs",
    "id": "just-pour-rire--montreal",
-   "lat": 45.5017,
-   "lng": -73.5673
+   "lieu": "Quartier des spectacles (Place des Arts, Espace St-Denis et autres salles)",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festival/just-for-laughs-festival/",
+   "coordsPrecises": true,
+   "lat": 45.5084,
+   "lng": -73.56654
   },
   {
    "nom": "Gib Fest (Festival de la Gibelotte)",
@@ -266,8 +299,12 @@
    "source": "https://www.soreltracy.com/gib-fest-2026-le-centre-ville-de-sorel-tracy-sanime-pour-une-48e-edition-festive/",
    "infos": "Anciennement « Festival de la Gibelotte ». Soirée d'ouverture le 9 juillet ; l'organisateur annonce le festival du 10 au 18 juillet.",
    "id": "gib-fest-festival-de-la-gibelotte--sorel-tracy",
-   "lat": 46.0424,
-   "lng": -73.1178
+   "lieu": "Centre-ville de Sorel-Tracy",
+   "adresse": "2, rue George, Sorel-Tracy",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festival/gib-fest/",
+   "coordsPrecises": true,
+   "lat": 46.04383,
+   "lng": -73.11757
   },
   {
    "nom": "Régates de Valleyfield",
@@ -287,8 +324,11 @@
    "source": "https://www.regatesvalleyfield.com/",
    "infos": "Événement aux deux ans. Prochaine édition en 2027 : 9, 10, 15, 16, 17 et 18 juillet.",
    "id": "regates-de-valleyfield--salaberry-de-valleyfield",
-   "lat": 45.25,
-   "lng": -74.1333
+   "lieu": "Baie Saint-François, parc Delpha-Sauvé",
+   "lieuSource": "https://collections.banq.qc.ca/document/s/t/AmgmxLZ4iMGDmgnOGadBPg",
+   "coordsPrecises": true,
+   "lat": 45.25735,
+   "lng": -74.13602
   },
   {
    "nom": "Traversée Internationale du Lac Saint-Jean",
@@ -307,6 +347,8 @@
    "organisateur": "Traversée internationale du lac Saint-Jean",
    "source": "https://www.lelacstjean.com/actualites/668654/la-traversee-internationale-du-lac-saint-jean-devoile-sa-programmation",
    "id": "traversee-internationale-du-lac-saint-jean--roberval",
+   "lieu": "Place de la Traversée (arrivée des nageurs)",
+   "coordsPrecises": false,
    "lat": 48.5167,
    "lng": -72.2333
   },
@@ -328,8 +370,11 @@
    "source": "https://bluestremblant.ca/",
    "infos": "Nouveau site officiel : bluestremblant.ca (l'ancien bluesfestival.ca n'est plus actif).",
    "id": "festival-international-de-blues-de-tremblant--mont-tremblant",
-   "lat": 46.1184,
-   "lng": -74.5964
+   "lieu": "Village piétonnier de Tremblant",
+   "adresse": "1000, chemin des Voyageurs, Mont-Tremblant",
+   "coordsPrecises": true,
+   "lat": 46.20941,
+   "lng": -74.58818
   },
   {
    "nom": "Festivoix de Trois-Rivières",
@@ -349,6 +394,8 @@
    "organisateur": "Festivoix de Trois-Rivières",
    "source": "https://festivoix.com/fr/blogue/la-programmation-complete-du-festivoix/",
    "id": "festivoix-de-trois-rivieres--trois-rivieres",
+   "lieu": "Centre-ville et zone portuaire (plusieurs scènes)",
+   "coordsPrecises": false,
    "lat": 46.3432,
    "lng": -72.5432
   },
@@ -370,8 +417,11 @@
    "organisateur": "Société d'agriculture du comté de Saint-Hyacinthe",
    "source": "https://expo-agricole.com/",
    "id": "expo-saint-hyacinthe--saint-hyacinthe",
-   "lat": 45.6167,
-   "lng": -72.95
+   "lieu": "Terrain de l'Expo agricole",
+   "adresse": "2670, avenue Beauparlant, Saint-Hyacinthe",
+   "coordsPrecises": true,
+   "lat": 45.6348,
+   "lng": -72.95686
   },
   {
    "nom": "Festival de Lanaudière",
@@ -392,8 +442,12 @@
    "source": "https://www.lanaudiere.org/concerts-et-billets",
    "infos": "Ouverture confirmée le 3 juillet ; dernier concert annoncé le 3 août, la clôture peut être quelques jours plus tard.",
    "id": "festival-de-lanaudiere--joliette",
-   "lat": 46.0167,
-   "lng": -73.4333
+   "lieu": "Amphithéâtre Fernand-Lindsay (et églises de la région)",
+   "adresse": "1655, boulevard Base-de-Roc, Joliette",
+   "lieuSource": "https://lanaudiere.ca/en/activities-lanaudiere/amphitheatre-fernand-lindsay",
+   "coordsPrecises": true,
+   "lat": 46.00439,
+   "lng": -73.4128
   },
   {
    "nom": "Traversée Internationale du Lac Memphrémagog",
@@ -433,8 +487,10 @@
    "organisateur": "Ville de Sherbrooke",
    "source": "https://fetedulacdesnations.com/",
    "id": "fete-du-lac-des-nations--sherbrooke",
-   "lat": 45.4001,
-   "lng": -71.8991
+   "lieu": "Parc Jacques-Cartier",
+   "coordsPrecises": true,
+   "lat": 45.39576,
+   "lng": -71.91752
   },
   {
    "nom": "Festival de Montgolfières de Saint-Jean-sur-Richelieu",
@@ -454,8 +510,11 @@
    "source": "https://ticketmaster.ca/international-de-montgolfieres-de-saintjeansurrichelieu-billets/artist/2651958",
    "infos": "En deux blocs : 7 au 9 août et 13 au 16 août 2026 (fermé entre les deux).",
    "id": "festival-de-montgolfieres-de-saint-jean-sur-richelieu--saint-jean-sur-richelieu",
-   "lat": 45.3067,
-   "lng": -73.262
+   "lieu": "Aéroport de Saint-Jean-sur-Richelieu",
+   "adresse": "5, chemin de l'Aéroport, Saint-Jean-sur-Richelieu",
+   "coordsPrecises": true,
+   "lat": 45.29973,
+   "lng": -73.27997
   },
   {
    "nom": "Fêtes de la Nouvelle-France",
@@ -474,8 +533,10 @@
    "organisateur": "Les Fêtes de la Nouvelle-France",
    "source": "https://www.carrefourdequebec.com/2026/07/les-fetes-de-la-nouvelle-france-reviennent-avec-trois-nouveautes/",
    "id": "fetes-de-la-nouvelle-france--quebec",
-   "lat": 46.8139,
-   "lng": -71.208
+   "lieu": "Vieux-Québec (trois sites)",
+   "coordsPrecises": true,
+   "lat": 46.81385,
+   "lng": -71.20716
   },
   {
    "nom": "Osheaga",
@@ -495,8 +556,11 @@
    "organisateur": "evenko",
    "source": "https://osheaga.com/",
    "id": "osheaga--montreal",
-   "lat": 45.5017,
-   "lng": -73.5673
+   "lieu": "Parc Jean-Drapeau",
+   "lieuSource": "https://franco.wiki/fr/Osheaga.html",
+   "coordsPrecises": true,
+   "lat": 45.51386,
+   "lng": -73.53433
   },
   {
    "nom": "Festival International de la Poutine",
@@ -516,8 +580,12 @@
    "source": "https://www.bonjourquebec.com/fr/repertoire/evenements/festival-de-la-poutine-de-drummondville/0ocy",
    "infos": "Spectacles en soirée (Loud, The Offspring, Cœur de pirate en 2026). Le lieu varie selon les annonces (stationnement du Cégep, 960 rue Saint-Georges, ou Centre Marcel-Dionne) : vérifier avant d'y aller.",
    "id": "festival-international-de-la-poutine--drummondville",
-   "lat": 45.8833,
-   "lng": -72.4833
+   "lieu": "Stationnement du Cégep de Drummondville",
+   "adresse": "960, rue Saint-Georges, Drummondville",
+   "lieuSource": "https://www.quebecvacances.com/en/events/festival-de-la-poutine-de-drummondville",
+   "coordsPrecises": true,
+   "lat": 45.87555,
+   "lng": -72.50548
   },
   {
    "nom": "Festival du Cochon",
@@ -537,8 +605,11 @@
    "organisateur": "Comité organisateur du Festival du cochon",
    "source": "https://festivalducochon.com/",
    "id": "festival-du-cochon--sainte-perpetue",
-   "lat": 46.05,
-   "lng": -72.62
+   "adresse": "113, rue Saint-Charles, Sainte-Perpétue",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festival/festival-du-cochon-de-sainte-perpetue",
+   "coordsPrecises": true,
+   "lat": 46.078,
+   "lng": -72.467
   },
   {
    "nom": "Innu Nikamu",
@@ -559,6 +630,9 @@
    "source": "https://macotenord.com/2026/07/02/innu-nikamu-2026-eric-lapointe-et-plusieurs-artistes-innus-sajoutent-a-offsping/",
    "infos": "Soirée d'ouverture gratuite le 30 juillet, programmation principale du 31 juillet au 2 août.",
    "id": "innu-nikamu--mani-utenam",
+   "lieu": "Site du festival, au cœur de Mani-utenam",
+   "lieuSource": "https://en.wikipedia.org/wiki/Innu_Nikamu",
+   "coordsPrecises": false,
    "lat": 50.2333,
    "lng": -66.3833
   },
@@ -579,8 +653,12 @@
    "organisateur": "Festival des Guitares du Monde en Abitibi-Témiscamingue",
    "source": "https://fgmat.com/en/",
    "id": "festival-des-guitares-du-monde-en-abitibi-temiscamingue--rouyn-noranda",
-   "lat": 48.2333,
-   "lng": -79.0167
+   "lieu": "Agora des Arts et autres petites salles",
+   "adresse": "37, 7e Rue, Rouyn-Noranda",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festival-evenement/festival-des-guitares-du-monde-en-abitibi-temiscamingue/",
+   "coordsPrecises": true,
+   "lat": 48.24623,
+   "lng": -79.01673
   },
   {
    "nom": "Festi-Jazz International de Rimouski",
@@ -599,6 +677,9 @@
    "organisateur": "Festi Jazz International de Rimouski",
    "source": "https://festijazzrimouski.com/en/",
    "id": "festi-jazz-international-de-rimouski--rimouski",
+   "lieu": "Chapiteau de la Place des Anciens-Combattants et salle Desjardins-Telus",
+   "lieuSource": "https://www.bassaintlaurent.ca/en/what-to-do/events/festi-jazz-international-de-rimouski/",
+   "coordsPrecises": false,
    "lat": 48.4489,
    "lng": -68.5233
   },
@@ -619,6 +700,9 @@
    "organisateur": "Festival Western de Saint-Tite inc.",
    "source": "https://www.bonjourquebec.com/en-ca/listing/events/festival-western-de-st-tite/0oni",
    "id": "festival-western-de-st-tite--saint-tite",
+   "lieu": "Partout dans la ville (chapiteaux, Country Club Desjardins)",
+   "lieuSource": "https://grandquebec.com/villes-quebec/saint-tite/",
+   "coordsPrecises": false,
    "lat": 46.7333,
    "lng": -72.5667
   },
@@ -640,8 +724,11 @@
    "source": "https://www.fetedesvendanges.com/",
    "infos": "Deux fins de semaine : 5 au 7 et 12-13 septembre 2026.",
    "id": "fete-des-vendanges-de-magog-orford--magog",
-   "lat": 45.2667,
-   "lng": -72.15
+   "lieu": "Parc de la Pointe-Merry",
+   "lieuSource": "https://tourisme-memphremagog.com/en/fiches/fete-des-vendanges/",
+   "coordsPrecises": true,
+   "lat": 45.26435,
+   "lng": -72.16098
   },
   {
    "nom": "Festival de l'Oie Blanche",
@@ -679,8 +766,11 @@
    "source": "https://www.festivaldeloiedesneiges.com",
    "infos": "Au 172 rue de l'Église, Saint-Joachim.",
    "id": "festival-de-l-oie-des-neiges--saint-joachim",
-   "lat": 47.0583,
-   "lng": -70.8506
+   "adresse": "172, rue de l'Église, Saint-Joachim",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festival/festival-de-loie-des-neiges",
+   "coordsPrecises": true,
+   "lat": 47.0538,
+   "lng": -70.8436
   },
   {
    "nom": "Marché de Noël Allemand de Québec",
@@ -701,8 +791,10 @@
    "source": "https://www.carrefourdequebec.com/2025/11/le-marche-de-noel-allemand-de-quebec-est-lance/",
    "infos": "Dates 2026 pas encore annoncées ; dates 2025 affichées comme repère (fin novembre à fin décembre).",
    "id": "marche-de-noel-allemand-de-quebec--quebec",
-   "lat": 46.8139,
-   "lng": -71.208
+   "lieu": "Vieux-Québec (rue Saint-Jean et côte de la Fabrique)",
+   "coordsPrecises": true,
+   "lat": 46.81447,
+   "lng": -71.20835
   },
   {
    "nom": "Grand Marché de Noël de Montréal",
@@ -724,8 +816,11 @@
    "source": "https://noelmontreal.ca/grandmarchedenoel/",
    "infos": "Du 13 nov. au 13 déc. : mer–ven 15 h–22 h, sam 11 h–22 h, dim 11 h–20 h. Du 16 déc. au 3 janv. : tous les jours 15 h–22 h (11 h–22 h du 21 au 23 déc., 11 h–19 h les 24 et 25 déc.).",
    "id": "grand-marche-de-noel-de-montreal--montreal",
-   "lat": 45.5017,
-   "lng": -73.5673
+   "lieu": "Place des Festivals, Quartier des spectacles",
+   "adresse": "1499, rue Jeanne-Mance, Montréal",
+   "coordsPrecises": true,
+   "lat": 45.50782,
+   "lng": -73.56693
   },
   {
    "nom": "Festival de danse country de La Pocatière",
@@ -764,8 +859,12 @@
    "organisateur": "Centre d'art de Kamouraska",
    "source": "https://www.festivalarchipel.ca/edition-2026",
    "id": "archipel-festival-d-arts-vivants--kamouraska",
-   "lat": 47.5764,
-   "lng": -69.8666
+   "lieu": "Plusieurs lieux ; ouverture au Centre d'art de Kamouraska",
+   "adresse": "111, avenue Morel, Kamouraska",
+   "lieuSource": "https://www.bassaintlaurent.ca/en/blog/archipel-festival-2026/",
+   "coordsPrecises": true,
+   "lat": 47.56189,
+   "lng": -69.87175
   },
   {
    "nom": "Bière Fest de Rivière-du-Loup",
@@ -784,6 +883,8 @@
    "organisateur": "À confirmer",
    "source": "https://montemiscouata.com/2026/08/13/le-biere-fest-de-riviere-du-loup-est-bientot-de-retour/",
    "id": "biere-fest-de-riviere-du-loup--riviere-du-loup",
+   "lieu": "Parc Blais",
+   "coordsPrecises": false,
    "lat": 47.8325,
    "lng": -69.5319
   },
@@ -805,8 +906,12 @@
    "source": "https://www.infodimanche.com/culturel/la-formule-gagnante-du-rendez-vous-des-grandes-gueules/",
    "infos": "Dates 2026 pas encore annoncées ; dates 2025 affichées comme repère (début octobre).",
    "id": "le-rendez-vous-des-grandes-gueules--trois-pistoles",
-   "lat": 48.1173,
-   "lng": -69.1786
+   "lieu": "La Forge à Bérubé (scène principale)",
+   "adresse": "363, rue Vézina, Trois-Pistoles",
+   "lieuSource": "https://www.bonjourquebec.com/en-ca/listing/to-see-and-do/la-forge-a-berube/0sfl",
+   "coordsPrecises": true,
+   "lat": 48.12316,
+   "lng": -69.17446
   },
   {
    "nom": "Festival du Bleuet de Dolbeau-Mistassini",
@@ -826,8 +931,11 @@
    "organisateur": "Festival du Bleuet de Dolbeau-Mistassini",
    "source": "https://www.festivaldubleuet.com/",
    "id": "festival-du-bleuet-de-dolbeau-mistassini--dolbeau-mistassini",
-   "lat": 48.8767,
-   "lng": -72.2394
+   "adresse": "105, avenue de l'Église, Dolbeau-Mistassini",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festival/festival-du-bleuet-de-dolbeau-mistassini/",
+   "coordsPrecises": true,
+   "lat": 48.892,
+   "lng": -72.204
   },
   {
    "nom": "Festival Country de Labrecque",
@@ -846,8 +954,12 @@
    "organisateur": "À confirmer",
    "source": "https://lepointdevente.com/billets/fcl2026",
    "id": "festival-country-de-labrecque--labrecque",
-   "lat": 48.5333,
-   "lng": -71.75
+   "lieu": "Centre des loisirs",
+   "adresse": "1315, rue Olympie, Labrecque",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festivals-and-gatherings/festival-country-de-labrecque/",
+   "coordsPrecises": true,
+   "lat": 48.67226,
+   "lng": -71.52586
   },
   {
    "nom": "Festirame",
@@ -867,8 +979,12 @@
    "source": "https://lepointdevente.com/billets/fva260703001",
    "infos": "Site principal (Place Festivalma) du 3 au 10 juillet, clôture avec la « Grande Nuit d'Alma » le 11 juillet.",
    "id": "festirame--alma",
-   "lat": 48.5501,
-   "lng": -71.6497
+   "lieu": "Place Festivalma",
+   "adresse": "605, boulevard Saint-Luc, Alma",
+   "lieuSource": "https://www.quebecvacances.com/fr/evenements/festirame",
+   "coordsPrecises": true,
+   "lat": 48.53939,
+   "lng": -71.65819
   },
   {
    "nom": "Festival Les Grandes Veillées",
@@ -887,8 +1003,12 @@
    "organisateur": "À confirmer",
    "source": "https://ville.saguenay.ca/infos-travaux/23-au-25-juillet-2026-festival-les-grandes-veill%C3%A9es-%C3%A0-la-baie",
    "id": "festival-les-grandes-veillees--la-baie",
-   "lat": 48.3333,
-   "lng": -70.8833
+   "lieu": "Agora du Village portuaire de La Baie",
+   "adresse": "900, rue Mars, Saguenay (La Baie)",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festival/festival-de-culture-et-musique-traditionnelles-les-grandes-veillees/",
+   "coordsPrecises": true,
+   "lat": 48.34477,
+   "lng": -70.88092
   },
   {
    "nom": "Le Festif! de Baie-Saint-Paul",
@@ -907,6 +1027,9 @@
    "organisateur": "Le Festif! de Baie-Saint-Paul",
    "source": "https://lefestif.ca/",
    "id": "le-festif-de-baie-saint-paul--baie-saint-paul",
+   "lieu": "Plus de trente sites dans le centre-ville",
+   "lieuSource": "https://www.quebecvacances.com/fr/evenements/le-festif-de-baie-saint-paul",
+   "coordsPrecises": false,
    "lat": 47.4419,
    "lng": -70.5033
   },
@@ -927,8 +1050,12 @@
    "organisateur": "Société d'agriculture de Portneuf",
    "source": "https://www.courrierdeportneuf.com/2026/06/28/lexpo-agricole-a-saint-marc-du-7-au-9-aout/",
    "id": "exposition-agricole-de-portneuf--saint-marc-des-carrieres",
-   "lat": 46.6833,
-   "lng": -72.05
+   "lieu": "Site de l'Exposition agricole",
+   "adresse": "1650, boulevard Bona-Dussault, Saint-Marc-des-Carrières",
+   "lieuSource": "https://www.quebecvacances.com/fr/evenements/exposition-agricole-de-portneuf",
+   "coordsPrecises": true,
+   "lat": 46.68765,
+   "lng": -72.06306
   },
   {
    "nom": "Festival Lorettain",
@@ -947,8 +1074,11 @@
    "organisateur": "Ville de L'Ancienne-Lorette",
    "source": "https://lancienne-lorette.org/loisirs-et-culture/activites-et-sports/festival-lorettain",
    "id": "festival-lorettain--l-ancienne-lorette",
-   "lat": 46.8167,
-   "lng": -71.3467
+   "lieu": "Rue Beloeil",
+   "lieuSource": "https://quoifaire.com/en/quebec/events/festival-lorettain-20e-edition-gratuit",
+   "coordsPrecises": true,
+   "lat": 46.81062,
+   "lng": -71.36242
   },
   {
    "nom": "Rodéo de Charlevoix",
@@ -967,8 +1097,10 @@
    "organisateur": "À confirmer",
    "source": "https://www.mediaphotoscharlevoix.com/du-18-au-21-juin-prochain-le-rodeo-de-charlevoix-soulignera-avec-fierte-sa-15e-edition-a-lhippodrome-de-la-vallee/",
    "id": "rodeo-de-charlevoix--saint-aime-des-lacs",
-   "lat": 47.7333,
-   "lng": -70.4167
+   "lieu": "Hippodrome de la Vallée",
+   "coordsPrecises": true,
+   "lat": 47.68719,
+   "lng": -70.31846
   },
   {
    "nom": "Vieux-Quai en Fête",
@@ -988,8 +1120,10 @@
    "source": "https://www.lemanic.ca/2026/03/13/une-deuxieme-tete-daffiche-pour-le-vieux-quai-en-fete-de-sept-iles/",
    "infos": "En 2026, mêmes dates que le Festival de la famille de Havre-Saint-Pierre (16 au 19 juillet).",
    "id": "vieux-quai-en-fete--sept-iles",
-   "lat": 50.2001,
-   "lng": -66.3821
+   "lieu": "Parc du Vieux-Quai",
+   "coordsPrecises": true,
+   "lat": 50.20544,
+   "lng": -66.38867
   },
   {
    "nom": "Festival Eau Grand Air",
@@ -1008,8 +1142,12 @@
    "organisateur": "À confirmer",
    "source": "https://www.lavitrine.com/en/event-series/festival-eau-grand-air-edition-2026/2056",
    "id": "festival-eau-grand-air--baie-comeau",
-   "lat": 49.217,
-   "lng": -68.15
+   "lieu": "Parc des Pionniers",
+   "adresse": "72, avenue Cabot, Baie-Comeau",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festivals-and-gatherings/festival-eau-grand-air-de-baie-comeau/",
+   "coordsPrecises": true,
+   "lat": 49.21934,
+   "lng": -68.14214
   },
   {
    "nom": "Festival de la famille de Havre-Saint-Pierre",
@@ -1049,6 +1187,9 @@
    "organisateur": "À confirmer",
    "source": "https://chansontadoussac.com/programmation-2026/",
    "id": "festival-de-la-chanson-de-tadoussac--tadoussac",
+   "lieu": "Une douzaine de scènes dans le village (église, parcs, marina…)",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festivals-and-gatherings/festival-de-la-chanson-de-tadoussac/",
+   "coordsPrecises": false,
    "lat": 48.1435,
    "lng": -69.7183
   },
@@ -1069,6 +1210,9 @@
    "organisateur": "Festival Musique du Bout du Monde",
    "source": "https://cimtchau.ca/nouvelles/le-festival-musique-du-bout-du-monde-fera-danser-gaspe-du-6-au-9-aout/",
    "id": "festival-musique-du-bout-du-monde--gaspe",
+   "lieu": "Plusieurs sites : chapiteau du port, rue de la Reine, Mont-Béchervaise, Cap-Bon-Ami",
+   "lieuSource": "https://www.tourisme-gaspesie.com/en/festivals-and-events/festival-musique-du-bout-du-monde/",
+   "coordsPrecises": false,
    "lat": 48.8322,
    "lng": -64.4849
   },
@@ -1089,8 +1233,12 @@
    "organisateur": "À confirmer",
    "source": "https://www.tourismeilesdelamadeleine.com/en/festival-acadien/festivals-and-events/",
    "id": "festival-acadien-des-iles-de-la-madeleine--havre-aubert-les-iles-de-la-madeleine",
-   "lat": 47.2231,
-   "lng": -61.8422
+   "lieu": "Site historique de La Grave",
+   "adresse": "966, route 199, Havre-Aubert",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festival/festival-acadien",
+   "coordsPrecises": true,
+   "lat": 47.23654,
+   "lng": -61.84189
   },
   {
    "nom": "Festival BleuBleu",
@@ -1109,6 +1257,9 @@
    "organisateur": "Comité organisateur du Festival BleuBleu, en collaboration avec la Ville de Carleton-sur-Mer",
    "source": "https://artsetculture.ca/le-festival-bleubleu-du-18-au-21-juin-2026/",
    "id": "festival-bleubleu--carleton-sur-mer",
+   "lieu": "Plusieurs sites (Cabane-à-Eudore, église Saint-Joseph, scène du quai, chapiteau)",
+   "lieuSource": "https://www.tourisme-gaspesie.com/en/festivals-and-events/festival-bleubleu/",
+   "coordsPrecises": false,
    "lat": 48.1012,
    "lng": -66.131
   },
@@ -1129,8 +1280,11 @@
    "organisateur": "Festival Les Percéides",
    "source": "https://perceides.ca/2026/les-perceides-devoile-la-programmation-de-sa-18e-edition-19-23-aout/",
    "id": "les-perceides-festival-international-de-cinema-et-arts-de-perce--perce",
-   "lat": 48.5247,
-   "lng": -64.2135
+   "lieu": "Centre d'art de Percé (et Vieille Usine de L'Anse-à-Beaufils)",
+   "adresse": "162, route 132 Ouest, Percé",
+   "coordsPrecises": true,
+   "lat": 48.52173,
+   "lng": -64.21437
   },
   {
    "nom": "Festival Western de Malartic",
@@ -1149,8 +1303,12 @@
    "organisateur": "Festival Western de Malartic",
    "source": "https://ici.radio-canada.ca/nouvelle/2250024/programmation-festival-western-malartic-2026",
    "id": "festival-western-de-malartic--malartic",
-   "lat": 48.1333,
-   "lng": -78.1272
+   "lieu": "Stade Osisko",
+   "adresse": "751, rue Frontenac, Malartic",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festival/festival-western-de-malartic/",
+   "coordsPrecises": true,
+   "lat": 48.1359,
+   "lng": -78.1294
   },
   {
    "nom": "Festival équestre et Rodéo professionnel de La Sarre",
@@ -1169,8 +1327,10 @@
    "organisateur": "À confirmer",
    "source": "https://rodeolasarre.com/",
    "id": "festival-equestre-et-rodeo-professionnel-de-la-sarre--la-sarre",
-   "lat": 48.8,
-   "lng": -79.2004
+   "lieuSource": "https://sortirauquebec.com/en/listing/festival/festival-equestre-et-rodeo-professionnel-de-la-sarre/",
+   "coordsPrecises": true,
+   "lat": 48.81023,
+   "lng": -79.20237
   },
   {
    "nom": "Foire agricole de Landrienne",
@@ -1189,8 +1349,11 @@
    "organisateur": "Société d'exposition agricole de l'Abitibi",
    "source": "https://amos-harricana.ca/activites/foire-agricole-de-landrienne/",
    "id": "foire-agricole-de-landrienne--landrienne",
-   "lat": 48.5528,
-   "lng": -77.9369
+   "adresse": "142, 6e-et-7e Rang Ouest, Landrienne",
+   "lieuSource": "https://www.quebecvacances.com/fr/evenements/foire-agricole-de-landrienne",
+   "coordsPrecises": true,
+   "lat": 48.51792,
+   "lng": -77.95161
   },
   {
    "nom": "Expo Shawville Fair",
@@ -1210,8 +1373,12 @@
    "organisateur": "Shawville Fair Association",
    "source": "https://clarendon.ca/events/shawville-fair-3/",
    "id": "expo-shawville-fair--shawville",
-   "lat": 45.5991,
-   "lng": -76.4938
+   "lieu": "Terrain de la foire de Shawville",
+   "adresse": "215, rue Lang, Shawville",
+   "lieuSource": "https://seatgeek.ca/venues/shawville-fairgrounds/tickets",
+   "coordsPrecises": true,
+   "lat": 45.60297,
+   "lng": -76.48591
   },
   {
    "nom": "Petite Nation en fête",
@@ -1230,8 +1397,12 @@
    "organisateur": "À confirmer",
    "source": "https://lepointdevente.com/billets/1l2260812001",
    "id": "petite-nation-en-fete--thurso",
-   "lat": 45.6122,
-   "lng": -75.2664
+   "lieu": "Grande scène extérieure au centre-ville",
+   "adresse": "337, rue Élisabeth, Thurso",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festival/petite-nation-en-fete/",
+   "coordsPrecises": true,
+   "lat": 45.60531,
+   "lng": -75.24657
   },
   {
    "nom": "Festival de montgolfières de Gatineau",
@@ -1250,8 +1421,12 @@
    "organisateur": "Festival de montgolfières de Gatineau",
    "source": "https://www.lavitrine.com/fr/series/fmg-festival-de-montgolfieres-de-gatineau-39e-edition/1682",
    "id": "festival-de-montgolfieres-de-gatineau--gatineau",
-   "lat": 45.4765,
-   "lng": -75.7013
+   "lieu": "Parc de la Baie",
+   "adresse": "988, rue Saint-Louis, Gatineau",
+   "lieuSource": "https://ottawatourism.ca/en/see-and-do/gatineau-hot-air-balloon-festival",
+   "coordsPrecises": true,
+   "lat": 45.4649,
+   "lng": -75.69138
   },
   {
    "nom": "Défis du Parc",
@@ -1270,8 +1445,11 @@
    "organisateur": "Les Défis du Parc",
    "source": "https://gotrail.run/fr/evenement/defis-du-parc",
    "id": "defis-du-parc--shawinigan",
-   "lat": 46.5667,
-   "lng": -72.75
+   "lieu": "Parc national de la Mauricie (entrée de Saint-Jean-des-Piles)",
+   "lieuSource": "https://sortirauquebec.com/en/listing/sports-event/les-defis-du-parc-national-de-la-mauricie",
+   "coordsPrecises": true,
+   "lat": 46.69184,
+   "lng": -72.74082
   },
   {
    "nom": "Festival de la Galette de Sarrasin",
@@ -1290,8 +1468,11 @@
    "organisateur": "Festival de la Galette de Sarrasin de Louiseville",
    "source": "https://lepointdevente.com/billets/galettesarrasin",
    "id": "festival-de-la-galette-de-sarrasin--louiseville",
-   "lat": 46.2557,
-   "lng": -72.9436
+   "adresse": "Avenue Saint-Laurent, Louiseville",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festival/festival-de-la-galette-de-sarrasin",
+   "coordsPrecises": true,
+   "lat": 46.25322,
+   "lng": -72.94894
   },
   {
    "nom": "Pêche aux petits poissons des Chenaux",
@@ -1313,6 +1494,9 @@
    "source": "https://lespetitspoissons.ca/en/",
    "infos": "La prochaine saison de pêche rouvre le 26 décembre 2026 ; date de fin pas encore annoncée (habituellement mi-février).",
    "id": "peche-aux-petits-poissons-des-chenaux--sainte-anne-de-la-perade",
+   "lieu": "Village de cabanes sur la rivière Sainte-Anne",
+   "lieuSource": "https://tourismemauricie.com/en/directory/festival-de-peche-aux-petits-poissons-des-chenaux-2",
+   "coordsPrecises": false,
    "lat": 46.5989,
    "lng": -72.2103
   },
@@ -1333,8 +1517,11 @@
    "organisateur": "Productions Nuits d'Afrique",
    "source": "https://festivalnuitsdafrique.com/",
    "id": "festival-international-nuits-d-afrique--montreal",
-   "lat": 45.5017,
-   "lng": -73.5673
+   "lieu": "Esplanade du Quartier des spectacles (village extérieur gratuit) et salles",
+   "lieuSource": "https://www.festivalnuitsdafrique.com/en/cabaret-nuits-dafrique-2026/",
+   "coordsPrecises": true,
+   "lat": 45.5096,
+   "lng": -73.56493
   },
   {
    "nom": "Festival Fierté Montréal",
@@ -1354,8 +1541,11 @@
    "organisateur": "Fierté Montréal Pride",
    "source": "https://fiertemontreal.com/",
    "id": "festival-fierte-montreal--montreal",
-   "lat": 45.5017,
-   "lng": -73.5673
+   "lieu": "Le Village (rue Sainte-Catherine Est, scène à l'angle de Papineau) ; défilé sur le boulevard René-Lévesque",
+   "lieuSource": "https://www.noovo.info/nouvelles/societe/article/le-festival-fierte-montreal-devoile-sa-programmation-2026/",
+   "coordsPrecises": true,
+   "lat": 45.51955,
+   "lng": -73.55717
   },
   {
    "nom": "Les Rendez-vous Québec Cinéma",
@@ -1376,8 +1566,12 @@
    "source": "https://rendez-vous.quebeccinema.ca/",
    "infos": "L'édition 2026 s'est tenue du 22 au 30 avril.",
    "id": "les-rendez-vous-quebec-cinema--montreal",
-   "lat": 45.5017,
-   "lng": -73.5673
+   "lieu": "Cinémathèque québécoise (cœur du festival) et autres cinémas",
+   "adresse": "335, boulevard de Maisonneuve Est, Montréal",
+   "lieuSource": "https://www.quebeccinema.ca/uploads/document/annonce_programmation_2026.pdf",
+   "coordsPrecises": true,
+   "lat": 45.51403,
+   "lng": -73.56271
   },
   {
    "nom": "Festival du Monde Arabe de Montréal",
@@ -1398,8 +1592,12 @@
    "source": "https://festivalarabe.com/",
    "infos": "27e édition. Ouverture le 30 oct. au Théâtre Beanfield, clôture le 15 nov. à la salle Pierre-Mercure. Arts de la scène, cinéma, forum et Espace Aleph.",
    "id": "festival-du-monde-arabe-de-montreal--montreal",
-   "lat": 45.5017,
-   "lng": -73.5673
+   "lieu": "Quartier des spectacles, Place des Arts et diverses salles",
+   "adresse": "175, rue Sainte-Catherine Ouest, Montréal",
+   "lieuSource": "https://www.bonjourquebec.com/en/listing/events/festival-du-monde-arabe-de-montreal/0o3r",
+   "coordsPrecises": true,
+   "lat": 45.5084,
+   "lng": -73.56654
   },
   {
    "nom": "Symposium de Sainte-Rose (Rose-Art)",
@@ -1418,8 +1616,10 @@
    "organisateur": "Comité du Symposium de Sainte-Rose (Rose-Art)",
    "source": "https://courrierlaval.com/?s=symposium+ste-rose",
    "id": "symposium-de-sainte-rose-rose-art--laval",
-   "lat": 45.6066,
-   "lng": -73.7124
+   "lieu": "Autour de la galerie La Vieille Caserne et de l'église Sainte-Rose-de-Lima",
+   "coordsPrecises": true,
+   "lat": 45.61394,
+   "lng": -73.78704
   },
   {
    "nom": "Foire du Vieux Sainte-Rose",
@@ -1438,8 +1638,11 @@
    "organisateur": "Association des citoyens et amis du Vieux Sainte-Rose (ACAVSR)",
    "source": "https://courrierlaval.com/?s=foire+vieux+sainte-rose",
    "id": "foire-du-vieux-sainte-rose--laval",
-   "lat": 45.6066,
-   "lng": -73.7124
+   "lieu": "Vieux-Sainte-Rose",
+   "lieuSource": "https://sortirauquebec.com/en/listing/trade-show-fair/la-foire-du-vieux-sainte-rose",
+   "coordsPrecises": true,
+   "lat": 45.60576,
+   "lng": -73.79833
   },
   {
    "nom": "Festi-Gourmet",
@@ -1458,8 +1661,12 @@
    "organisateur": "Festi-Gourmet",
    "source": "https://festigourmet.com/",
    "id": "festi-gourmet--laval",
-   "lat": 45.6066,
-   "lng": -73.7124
+   "lieu": "Stationnement du Centre Laval",
+   "adresse": "1600, boulevard Le Corbusier, Laval",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festivals-and-gatherings/festi-gourmet-edition-2025/",
+   "coordsPrecises": true,
+   "lat": 45.56182,
+   "lng": -73.73132
   },
   {
    "nom": "Festival Saint-Patrick de Rawdon",
@@ -1478,8 +1685,12 @@
    "organisateur": "Municipalité de Rawdon",
    "source": "https://rawdon.ca/",
    "id": "festival-saint-patrick-de-rawdon--rawdon",
-   "lat": 46.0499,
-   "lng": -73.7168
+   "lieu": "Rue Queen (défilé de la plage municipale à la rue Church)",
+   "adresse": "3647, rue Queen, Rawdon",
+   "lieuSource": "https://lanaudiere.ca/en/blog/st-patrick-festival",
+   "coordsPrecises": true,
+   "lat": 46.04252,
+   "lng": -73.70749
   },
   {
    "nom": "Festival Vins et Histoire de Terrebonne",
@@ -1499,8 +1710,12 @@
    "source": "https://news.google.com/rss/search?q=%22Vins%20et%20Histoire%22%20Terrebonne&hl=fr-CA&gl=CA&ceid=CA:fr",
    "infos": "Édition 2026 confirmée début août ; jours exacts à confirmer.",
    "id": "festival-vins-et-histoire-de-terrebonne--terrebonne",
-   "lat": 45.7047,
-   "lng": -73.6362
+   "lieu": "Site historique de l'Île-des-Moulins",
+   "adresse": "925, place de l'Île-des-Moulins, Terrebonne",
+   "lieuSource": "https://www.narcity.com/fr/laval/degustation-vins-pres-laval-week-end-du-5-au-7-aout",
+   "coordsPrecises": true,
+   "lat": 45.69274,
+   "lng": -73.63852
   },
   {
    "nom": "Festival Feu et Glace",
@@ -1519,8 +1734,11 @@
    "organisateur": "Ville de Repentigny",
    "source": "https://monjoliette.com/?s=feu+et+glace",
    "id": "festival-feu-et-glace--repentigny",
-   "lat": 45.7407,
-   "lng": -73.4535
+   "lieu": "Parc de l'Île-Lebel",
+   "lieuSource": "https://www.quebecvacances.com/fr/evenements/festival-feu-et-glace",
+   "coordsPrecises": true,
+   "lat": 45.73771,
+   "lng": -73.44269
   },
   {
    "nom": "Symphonie des Couleurs",
@@ -1538,8 +1756,11 @@
    "source": "https://www.saint-donat.ca/evenements/symphonie-des-couleurs-2/",
    "infos": "Sur plusieurs fins de semaine, de mi-septembre à début octobre (dernières dates publiées : 2023). Aucune date 2026 trouvée ; croisières « couleurs » jusqu'au 18 octobre 2026.",
    "id": "symphonie-des-couleurs--saint-donat",
-   "lat": 46.3186,
-   "lng": -74.227
+   "lieu": "Place Saint-Donat",
+   "adresse": "442, rue Principale, Saint-Donat",
+   "coordsPrecises": true,
+   "lat": 46.31866,
+   "lng": -74.22219
   },
   {
    "nom": "Festival des Arts de Saint-Sauveur",
@@ -1559,6 +1780,8 @@
    "organisateur": "Le Festival des Arts de Saint-Sauveur",
    "source": "https://festivaldesarts.ca/",
    "id": "festival-des-arts-de-saint-sauveur--saint-sauveur",
+   "lieu": "Au cœur du village de Saint-Sauveur",
+   "coordsPrecises": false,
    "lat": 45.8791,
    "lng": -74.1653
   },
@@ -1580,8 +1803,10 @@
    "organisateur": "1001 Pots (fondé par Kinya Ishikawa)",
    "source": "https://www.1001pots.com/exposition",
    "id": "1001-pots--val-david",
-   "lat": 46.0367,
-   "lng": -74.2233
+   "adresse": "2435, rue de l'Église, Val-David",
+   "coordsPrecises": true,
+   "lat": 46.0288,
+   "lng": -74.20912
   },
   {
    "nom": "Traversée du Lac des Sables",
@@ -1622,8 +1847,12 @@
    "source": "https://sainte-adele.net/event/oktobierfest-2026-2/",
    "infos": "16e édition, à la Place des citoyens. Accès au site gratuit. Trois journées thématiques où l'on peut se costumer : soirée bavaroise, journée disco, journée country.",
    "id": "oktobierfest-de-sainte-adele--sainte-adele",
-   "lat": 45.9497,
-   "lng": -74.1326
+   "lieu": "Place des citoyens",
+   "adresse": "999, boulevard de Sainte-Adèle, Sainte-Adèle",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festival/loktobierfest-sainte-adele",
+   "coordsPrecises": true,
+   "lat": 45.95117,
+   "lng": -74.13356
   },
   {
    "nom": "Festival Bières et Saveurs de Chambly",
@@ -1642,8 +1871,10 @@
    "organisateur": "Festival Bières et Saveurs de Chambly",
    "source": "https://nightlife.ca/2026/05/01/bieres-et-saveurs-de-chambly-devoile-sa-programmation-musicale/",
    "id": "festival-bieres-et-saveurs-de-chambly--chambly",
-   "lat": 45.4499,
-   "lng": -73.2837
+   "lieu": "Au pied du Fort Chambly",
+   "coordsPrecises": true,
+   "lat": 45.44862,
+   "lng": -73.27591
   },
   {
    "nom": "Granby International (voitures anciennes)",
@@ -1663,8 +1894,12 @@
    "organisateur": "Voitures anciennes de Granby (VAG)",
    "source": "https://vadg.ca/?lang=en",
    "id": "granby-international-voitures-anciennes--granby",
-   "lat": 45.4009,
-   "lng": -72.7332
+   "lieu": "Parc Daniel-Johnson, au bord du lac Boivin",
+   "adresse": "230, rue Drummond, Granby",
+   "lieuSource": "https://sortirauquebec.com/en/listing/trade-show-fair/le-granby-international-de-voitures-anciennes",
+   "coordsPrecises": true,
+   "lat": 45.40219,
+   "lng": -72.70838
   },
   {
    "nom": "Exposition Cookshire Fair",
@@ -1683,8 +1918,10 @@
    "organisateur": "Comité organisateur de la Cookshire Fair",
    "source": "https://www.easterntownships.org/events/35/exposition-cookshire-fair",
    "id": "exposition-cookshire-fair--cookshire-eaton",
-   "lat": 45.4271,
-   "lng": -71.6349
+   "adresse": "580, route 108, Cookshire-Eaton",
+   "coordsPrecises": true,
+   "lat": 45.40011,
+   "lng": -71.63769
   },
   {
    "nom": "Festival Colline",
@@ -1704,6 +1941,9 @@
    "source": "https://festivalcolline.com/",
    "infos": "L'édition 2026 a eu lieu du 6 au 8 août.",
    "id": "festival-colline--lac-megantic",
+   "lieu": "Plusieurs sites (site principal, Village Colline, marina de Piopolis…)",
+   "lieuSource": "https://festapp.io/festivals/festival-colline/2025",
+   "coordsPrecises": false,
    "lat": 45.5834,
    "lng": -70.8797
   },
@@ -1725,8 +1965,12 @@
    "source": "https://tourismebrome-missisquoi.ca/evenements/bromont-blues-bbq/",
    "infos": "Concerts gratuits tous les jeudis de juillet (2, 9, 16, 23 et 30 juillet 2026).",
    "id": "bromont-blues--bromont",
-   "lat": 45.3168,
-   "lng": -72.6449
+   "lieu": "Place publique du Vieux-Bromont",
+   "adresse": "705, rue Shefford, Bromont",
+   "lieuSource": "https://www.bonjourquebec.com/fr/repertoire/evenements/bromont-blues/27uc",
+   "coordsPrecises": true,
+   "lat": 45.31823,
+   "lng": -72.65528
   },
   {
    "nom": "Festivent de Lévis",
@@ -1746,8 +1990,11 @@
    "organisateur": "Festivent de Lévis",
    "source": "https://festivent.ca/",
    "id": "festivent-de-levis--levis",
-   "lat": 46.7382,
-   "lng": -71.1869
+   "lieu": "Parc Champigny",
+   "lieuSource": "https://chaudiereappalaches.com/en/explore-the-region/8-destinations/levis/levis-heres-to-a-festive-summer/",
+   "coordsPrecises": true,
+   "lat": 46.72709,
+   "lng": -71.20293
   },
   {
    "nom": "Festival Promutuel de la Relève de Thetford Mines",
@@ -1766,8 +2013,12 @@
    "organisateur": "Festival Promutuel de la Relève de Thetford Mines",
    "source": "https://www.inforeleve.com/",
    "id": "festival-promutuel-de-la-releve-de-thetford-mines--thetford-mines",
-   "lat": 46.0965,
-   "lng": -71.3049
+   "lieu": "Centre-ville, rue Notre-Dame Ouest (plusieurs scènes)",
+   "adresse": "81, rue Notre-Dame Ouest, Thetford Mines",
+   "lieuSource": "https://chaudiereappalaches.com/en/plan-your-stay/festivals-and-events/festival-promutuel-de-la-releve-de-thetford-mines-thetford-mines-en-5377514/",
+   "coordsPrecises": true,
+   "lat": 46.08987,
+   "lng": -71.30155
   },
   {
    "nom": "Beauce Carnaval",
@@ -1787,6 +2038,9 @@
    "organisateur": "Beauce Carnaval",
    "source": "https://www.beaucecarnaval.com/",
    "id": "beauce-carnaval--saint-georges",
+   "lieu": "Fête foraine itinérante (une quinzaine de villes)",
+   "lieuSource": "https://www.narcity.com/fr/quebec/beauce-carnaval-va-rouvrir-avant-la-ronde-et-cest-1-h-de-qubec",
+   "coordsPrecises": false,
    "lat": 46.1113,
    "lng": -70.6656
   },
@@ -1808,8 +2062,10 @@
    "source": "https://tourismecentreduquebec.com/en/events/expo-victo-festival-hommes-forts-2/",
    "infos": "Au 12 rue de l'Aréna, stationnement gratuit. Manèges, jugements d'animaux, zone machinerie. Nouveauté 2026 : premier championnat nord-américain de femmes fortes.",
    "id": "expo-agricole-de-victoriaville-et-festival-hommes-forts--victoriaville",
-   "lat": 46.0532,
-   "lng": -71.966
+   "adresse": "12, rue de l'Aréna, Victoriaville",
+   "coordsPrecises": true,
+   "lat": 46.05712,
+   "lng": -71.94596
   },
   {
    "nom": "Festival Western de Daveluyville",
@@ -1829,8 +2085,11 @@
    "source": "https://www.tourismeregionvictoriaville.com/evenements/202606/42163/festival-western-de-daveluyville",
    "infos": "Au Centre sportif Piché. Autres rendez-vous country à Daveluyville : Festival Rétro (30 juil.–2 août) et Rendez-vous country (26–30 août 2026).",
    "id": "festival-western-de-daveluyville--daveluyville",
-   "lat": 46.1917,
-   "lng": -72.1258
+   "lieu": "Centre sportif Piché",
+   "adresse": "1, 9e Avenue, Daveluyville",
+   "coordsPrecises": true,
+   "lat": 46.20189,
+   "lng": -72.13461
   },
   {
    "nom": "Foire agricole de Nicolet",
@@ -1871,8 +2130,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-d-art-et-d-artisanat-de-ddo/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-d-art-et-d-artisanat-de-ddo--dollard-des-ormeaux",
-   "lat": 45.494,
-   "lng": -73.807
+   "lieu": "Centre des arts de Dollard",
+   "adresse": "12001, boulevard de Salaberry, Dollard-des-Ormeaux",
+   "coordsPrecises": true,
+   "lat": 45.48453,
+   "lng": -73.80884
   },
   {
    "nom": "Village de Noël de Montréal",
@@ -1893,8 +2155,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/village-de-noel-de-montreal/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "village-de-noel-de-montreal--montreal",
-   "lat": 45.5017,
-   "lng": -73.5673
+   "lieu": "Place du Marché Atwater",
+   "adresse": "3325, rue Saint-Ambroise, Montréal",
+   "coordsPrecises": true,
+   "lat": 45.47947,
+   "lng": -73.5768
   },
   {
    "nom": "Marché des Fêtes à l'Auditorium de Verdun",
@@ -1914,8 +2179,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-des-fetes-a-lauditorium-de-verdun/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-des-fetes-a-l-auditorium-de-verdun--montreal",
-   "lat": 45.5017,
-   "lng": -73.5673
+   "lieu": "Auditorium de Verdun",
+   "adresse": "4110, boulevard LaSalle, Montréal",
+   "coordsPrecises": true,
+   "lat": 45.46252,
+   "lng": -73.56174
   },
   {
    "nom": "Marché des Fêtes au Time Out Market",
@@ -1935,8 +2203,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-des-fetes-au-time-out-market-montreal/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-des-fetes-au-time-out-market--montreal",
-   "lat": 45.5017,
-   "lng": -73.5673
+   "lieu": "Time Out Market Montréal",
+   "adresse": "705, rue Sainte-Catherine Ouest, Montréal",
+   "coordsPrecises": true,
+   "lat": 45.503,
+   "lng": -73.57128
   },
   {
    "nom": "Le Grand Marché de Noël de Québec",
@@ -1957,8 +2228,10 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/le-grand-marche-de-noel/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "le-grand-marche-de-noel-de-quebec--quebec",
-   "lat": 46.8139,
-   "lng": -71.208
+   "adresse": "250-M, boulevard Wilfrid-Hamel, Québec",
+   "coordsPrecises": true,
+   "lat": 46.77673,
+   "lng": -71.37275
   },
   {
    "nom": "Marché du Noël d'Antan de Cap-Santé",
@@ -1978,8 +2251,10 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-du-noel-dantan-a-cap-sante/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-du-noel-d-antan-de-cap-sante--cap-sante",
-   "lat": 46.671,
-   "lng": -71.788
+   "adresse": "30, place de l'Église, Cap-Santé",
+   "coordsPrecises": true,
+   "lat": 46.6704,
+   "lng": -71.78726
   },
   {
    "nom": "Marché de Noël de Stoneham-et-Tewkesbury",
@@ -1999,8 +2274,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-de-noel-de-stoneham-et-tewkesbury/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-de-stoneham-et-tewkesbury--stoneham-et-tewkesbury",
-   "lat": 46.998,
-   "lng": -71.37
+   "lieu": "Parc des Fondateurs",
+   "adresse": "119, 1re Avenue, Stoneham-et-Tewkesbury",
+   "coordsPrecises": true,
+   "lat": 46.99919,
+   "lng": -71.36233
   },
   {
    "nom": "Salon des artisans de Québec",
@@ -2021,8 +2299,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/salon-des-artisans-de-quebec/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "salon-des-artisans-de-quebec--quebec",
-   "lat": 46.8139,
-   "lng": -71.208
+   "lieu": "Centre de foires de Québec",
+   "adresse": "2005, rue de l'Exposition, Québec",
+   "coordsPrecises": true,
+   "lat": 46.82602,
+   "lng": -71.2508
   },
   {
    "nom": "Marché de Noël de Baie-Saint-Paul",
@@ -2042,8 +2323,10 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-de-noel-de-baie-saint-paul/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-de-baie-saint-paul--baie-saint-paul",
-   "lat": 47.4419,
-   "lng": -70.5033
+   "lieu": "Rue Saint-Jean-Baptiste",
+   "coordsPrecises": true,
+   "lat": 47.44565,
+   "lng": -70.51113
   },
   {
    "nom": "Marché de Noël de Laval",
@@ -2063,8 +2346,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-de-noel-de-laval/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-de-laval--laval",
-   "lat": 45.6066,
-   "lng": -73.7124
+   "lieu": "Centre de la nature",
+   "adresse": "901, avenue du Parc, Laval",
+   "coordsPrecises": true,
+   "lat": 45.60548,
+   "lng": -73.66178
   },
   {
    "nom": "Noël au Marché de la gare de Sherbrooke",
@@ -2085,8 +2371,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/noel-au-marche-de-la-gare-de-sherbrooke/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "noel-au-marche-de-la-gare-de-sherbrooke--sherbrooke",
-   "lat": 45.4001,
-   "lng": -71.8991
+   "lieu": "Marché de la gare de Sherbrooke",
+   "adresse": "710, place de la Gare, Sherbrooke",
+   "coordsPrecises": true,
+   "lat": 45.39668,
+   "lng": -71.89769
   },
   {
    "nom": "Marché de Noël à la Poudrière de Windsor",
@@ -2106,8 +2395,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-de-noel-a-la-poudriere-de-windsor/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-a-la-poudriere-de-windsor--windsor",
-   "lat": 45.571,
-   "lng": -72
+   "lieu": "Parc historique de la Poudrière de Windsor",
+   "adresse": "342, rue Saint-Georges, Windsor",
+   "coordsPrecises": true,
+   "lat": 45.57749,
+   "lng": -71.99137
   },
   {
    "nom": "Marché des fêtes Cantons Créatif",
@@ -2127,8 +2419,12 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-des-fetes-cantons-creatif/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-des-fetes-cantons-creatif--sherbrooke",
-   "lat": 45.4001,
-   "lng": -71.8991
+   "lieu": "Sous-sol de la basilique-cathédrale Saint-Michel",
+   "adresse": "188, rue Marquette, Sherbrooke",
+   "lieuSource": "https://sortirauquebec.com/en/listing/christmas-market/marche-des-fetes-cantons-creatif",
+   "coordsPrecises": true,
+   "lat": 45.40276,
+   "lng": -71.8935
   },
   {
    "nom": "Marché de Noël de Notre-Dame-des-Bois",
@@ -2148,6 +2444,9 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-de-noel-de-notre-dame-des-bois/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-de-notre-dame-des-bois--notre-dame-des-bois",
+   "lieu": "Gymnase de l'école",
+   "lieuSource": "https://sortirauquebec.com/en/listing/christmas-and-holiday-markets/marche-de-noel-de-notre-dame-des-bois/",
+   "coordsPrecises": false,
    "lat": 45.394,
    "lng": -71.06
   },
@@ -2169,8 +2468,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/festif-bromont/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "festif-bromont--bromont",
-   "lat": 45.3168,
-   "lng": -72.6449
+   "lieu": "Place publique du Vieux-Bromont",
+   "adresse": "705, rue Shefford, Bromont",
+   "coordsPrecises": true,
+   "lat": 45.31823,
+   "lng": -72.65528
   },
   {
    "nom": "Central Pop Marché des Fêtes",
@@ -2190,8 +2492,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/central-pop-marche-des-fetes/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "central-pop-marche-des-fetes--drummondville",
-   "lat": 45.8833,
-   "lng": -72.4833
+   "lieu": "Centrexpo Drummondville",
+   "adresse": "550, rue Saint-Amant, Drummondville",
+   "coordsPrecises": true,
+   "lat": 45.89707,
+   "lng": -72.51649
   },
   {
    "nom": "Marché de Noël Sapins Goupil",
@@ -2212,8 +2517,10 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-de-noel-sapins-goupil/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-sapins-goupil--levis",
-   "lat": 46.7382,
-   "lng": -71.1869
+   "adresse": "519, avenue des Ruisseaux, Lévis",
+   "coordsPrecises": true,
+   "lat": 46.78174,
+   "lng": -71.11903
   },
   {
    "nom": "La rue des marchés de Noël",
@@ -2233,8 +2540,10 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/la-rue-des-marches-de-noel/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "la-rue-des-marches-de-noel--la-visitation-de-l-ile-dupas",
-   "lat": 46.083,
-   "lng": -73.15
+   "lieu": "Rue de l'Église (centre communautaire et église)",
+   "coordsPrecises": true,
+   "lat": 46.08571,
+   "lng": -73.14256
   },
   {
    "nom": "Marché de Noël de L'Assomption",
@@ -2255,8 +2564,10 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-de-noel-de-lassomption/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-de-l-assomption--l-assomption",
-   "lat": 45.833,
-   "lng": -73.433
+   "adresse": "270, boulevard de l'Ange-Gardien, L'Assomption",
+   "coordsPrecises": true,
+   "lat": 45.8289,
+   "lng": -73.42152
   },
   {
    "nom": "Marché de Noël de Joliette",
@@ -2277,8 +2588,10 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/le-marche-de-noel-de-joliette/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-de-joliette--joliette",
-   "lat": 46.0167,
-   "lng": -73.4333
+   "adresse": "445, rue Notre-Dame, Joliette",
+   "coordsPrecises": true,
+   "lat": 46.01634,
+   "lng": -73.45017
   },
   {
    "nom": "Marché de Noël de Terrebonne",
@@ -2298,8 +2611,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-de-noel-de-terrebonne/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-de-terrebonne--terrebonne",
-   "lat": 45.7047,
-   "lng": -73.6362
+   "lieu": "Île-des-Moulins",
+   "adresse": "940, place de l'Île-des-Moulins, Terrebonne",
+   "coordsPrecises": true,
+   "lat": 45.69274,
+   "lng": -73.63852
   },
   {
    "nom": "Marché de Noël au Camp Papillon",
@@ -2319,8 +2635,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-de-noel-au-camp-papillon/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-au-camp-papillon--saint-alphonse-rodriguez",
-   "lat": 46.183,
-   "lng": -73.7
+   "lieu": "Camp Papillon",
+   "adresse": "210, rue Papillon, Saint-Alphonse-Rodriguez",
+   "coordsPrecises": true,
+   "lat": 46.1931,
+   "lng": -73.67762
   },
   {
    "nom": "Marché de Noël de Saint-Lin–Laurentides",
@@ -2340,8 +2659,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-de-noel-de-saint-lin-laurentides/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-de-saint-lin-laurentides--saint-lin-laurentides",
-   "lat": 45.85,
-   "lng": -73.767
+   "lieu": "Hôtel de ville",
+   "adresse": "900, 12e Avenue, Saint-Lin–Laurentides",
+   "coordsPrecises": true,
+   "lat": 45.85171,
+   "lng": -73.75532
   },
   {
    "nom": "Marché de Noël d'Oka",
@@ -2361,8 +2683,10 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-de-noel-doka/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-d-oka--oka",
-   "lat": 45.467,
-   "lng": -74.083
+   "adresse": "1600, chemin d'Oka, Oka",
+   "coordsPrecises": true,
+   "lat": 45.49345,
+   "lng": -74.03144
   },
   {
    "nom": "Village de Noël de Sainte-Thérèse",
@@ -2383,8 +2707,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/village-de-noel-de-sainte-therese/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "village-de-noel-de-sainte-therese--sainte-therese",
-   "lat": 45.633,
-   "lng": -73.833
+   "lieu": "Place du Village",
+   "adresse": "6, rue de l'Église, Sainte-Thérèse",
+   "coordsPrecises": true,
+   "lat": 45.6398,
+   "lng": -73.84375
   },
   {
    "nom": "Marché de Noël de Mirabel",
@@ -2405,8 +2732,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-de-noel-de-mirabel/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-de-mirabel--mirabel",
-   "lat": 45.65,
-   "lng": -74.083
+   "lieu": "Centre culturel du Domaine-Vert Nord",
+   "adresse": "17530, rue Jacques-Cartier, Mirabel",
+   "coordsPrecises": true,
+   "lat": 45.67485,
+   "lng": -73.93596
   },
   {
    "nom": "Marcher Noël à Saint-Jérôme",
@@ -2426,8 +2756,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marcher-noel-a-saint-jerome/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marcher-noel-a-saint-jerome--saint-jerome",
-   "lat": 45.78,
-   "lng": -74
+   "lieu": "Centre-ville",
+   "adresse": "300, rue Parent, Saint-Jérôme",
+   "coordsPrecises": true,
+   "lat": 45.77649,
+   "lng": -73.99377
   },
   {
    "nom": "Le Noël des Métiers d'art de Sainte-Agathe",
@@ -2447,8 +2780,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/le-noel-des-metiers-dart-sainte-agathe-des-monts/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "le-noel-des-metiers-d-art-de-sainte-agathe--sainte-agathe-des-monts",
-   "lat": 46.05,
-   "lng": -74.2833
+   "lieu": "Place Lagny",
+   "adresse": "2, rue Saint-Louis, Sainte-Agathe-des-Monts",
+   "coordsPrecises": true,
+   "lat": 46.04816,
+   "lng": -74.28917
   },
   {
    "nom": "Marché de Noël et des traditions de Longueuil",
@@ -2469,8 +2805,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-de-noel-et-des-traditions-de-longueuil/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-et-des-traditions-de-longueuil--longueuil",
-   "lat": 45.5312,
-   "lng": -73.5185
+   "lieu": "Parc St. Mark",
+   "adresse": "340, rue Saint-Charles Ouest, Longueuil",
+   "coordsPrecises": true,
+   "lat": 45.53667,
+   "lng": -73.51182
   },
   {
    "nom": "Féerie au Lac du Village",
@@ -2490,8 +2829,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/feerie-au-lac-du-village/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "feerie-au-lac-du-village--saint-bruno-de-montarville",
-   "lat": 45.533,
-   "lng": -73.35
+   "lieu": "Lac du Village",
+   "adresse": "15, rue des Peupliers, Saint-Bruno-de-Montarville",
+   "coordsPrecises": true,
+   "lat": 45.52315,
+   "lng": -73.33547
   },
   {
    "nom": "Marché de Noël de Saint-Hyacinthe",
@@ -2511,8 +2853,10 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-de-noel-de-saint-hyacinthe/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-de-saint-hyacinthe--saint-hyacinthe",
-   "lat": 45.6167,
-   "lng": -72.95
+   "adresse": "1555, rue des Cascades, Saint-Hyacinthe",
+   "coordsPrecises": true,
+   "lat": 45.62427,
+   "lng": -72.94537
   },
   {
    "nom": "Marché de Noël de Sorel-Tracy",
@@ -2532,8 +2876,10 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-de-noel-de-sorel-tracy/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-de-sorel-tracy--sorel-tracy",
-   "lat": 46.0424,
-   "lng": -73.1178
+   "lieu": "Allée piétonnière du Marché des Arts Desjardins",
+   "coordsPrecises": true,
+   "lat": 46.04536,
+   "lng": -73.11739
   },
   {
    "nom": "Marché de Noël de Marieville",
@@ -2553,8 +2899,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-de-noel-de-marieville/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-de-marieville--marieville",
-   "lat": 45.433,
-   "lng": -73.167
+   "lieu": "Parc Édouard-Crevier",
+   "adresse": "rue du Pont, Marieville",
+   "coordsPrecises": true,
+   "lat": 45.43274,
+   "lng": -73.15976
   },
   {
    "nom": "Marché de Noël du Musée canadien de l'histoire",
@@ -2574,8 +2923,10 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/le-marche-de-noel-du-musee-canadien-de-lhistoire/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-du-musee-canadien-de-l-histoire--gatineau",
-   "lat": 45.4765,
-   "lng": -75.7013
+   "lieu": "Musée canadien de l'histoire",
+   "coordsPrecises": true,
+   "lat": 45.42989,
+   "lng": -75.70853
   },
   {
    "nom": "Marché de Noël de Montebello",
@@ -2595,8 +2946,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-de-noel-de-montebello/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-de-montebello--montebello",
-   "lat": 45.65,
-   "lng": -74.933
+   "lieu": "Village de Montebello",
+   "adresse": "545, rue Notre-Dame, Montebello",
+   "coordsPrecises": true,
+   "lat": 45.65089,
+   "lng": -74.93984
   },
   {
    "nom": "Sous les flocons de Ripon",
@@ -2616,8 +2970,10 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/sous-les-flocons-de-ripon/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "sous-les-flocons-de-ripon--ripon",
-   "lat": 45.783,
-   "lng": -75.1
+   "adresse": "18, rue du Rivage, Ripon",
+   "coordsPrecises": true,
+   "lat": 45.77966,
+   "lng": -75.09188
   },
   {
    "nom": "Noël dans le Vieux-Aylmer",
@@ -2637,8 +2993,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/noel-dans-le-vieux-aylmer/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "noel-dans-le-vieux-aylmer--gatineau",
-   "lat": 45.4765,
-   "lng": -75.7013
+   "lieu": "Centre culturel du Vieux-Aylmer",
+   "adresse": "115, rue Principale, Gatineau",
+   "coordsPrecises": true,
+   "lat": 45.39512,
+   "lng": -75.84471
   },
   {
    "nom": "Marché de Noël européen de Saguenay",
@@ -2658,8 +3017,11 @@
    "source": "https://sortirauquebec.com/fiche/marches-de-noel-et-du-temps-des-fetes/marche-de-noel-europeen-de-saguenay/",
    "infos": "Dates relevées dans le répertoire des marchés de Noël 2026 de Sortir au Québec (oct. 2026). Horaires détaillés sur la fiche.",
    "id": "marche-de-noel-europeen-de-saguenay--saguenay",
-   "lat": 48.4284,
-   "lng": -71.068
+   "lieu": "Place du Citoyen",
+   "adresse": "155, rue Racine Est, Saguenay",
+   "coordsPrecises": true,
+   "lat": 48.42781,
+   "lng": -71.06311
   },
   {
    "nom": "Village hanté du Village Québécois d'Antan",
@@ -2680,8 +3042,10 @@
    "source": "https://villagequebecois.com/visitez/automne/village-hante/",
    "infos": "Vendredis et samedis soir (plus le dimanche de l'Action de grâce). Pour les 13 ans et plus ; les samedis affichent souvent complet, réserver.",
    "id": "village-hante-du-village-quebecois-d-antan--drummondville",
-   "lat": 45.8833,
-   "lng": -72.4833
+   "lieu": "Village Québécois d'Antan",
+   "coordsPrecises": true,
+   "lat": 45.89596,
+   "lng": -72.4906
   },
   {
    "nom": "Village des petits monstres",
@@ -2701,8 +3065,10 @@
    "source": "https://villagequebecois.com/visitez/automne/village-petits-monstres/",
    "infos": "Samedis et dimanches, de 13 h à 16 h.",
    "id": "village-des-petits-monstres--drummondville",
-   "lat": 45.8833,
-   "lng": -72.4833
+   "lieu": "Village Québécois d'Antan",
+   "coordsPrecises": true,
+   "lat": 45.89596,
+   "lng": -72.4906
   },
   {
    "nom": "Halloween animalière du Zoo de Granby",
@@ -2723,8 +3089,10 @@
    "source": "https://www.zoodegranby.com/salle-de-presse/des-citrouilles-des-animaux-et-une-halloween-pleine-de-surprises-au-zoo",
    "infos": "Toutes les fins de semaine du 3 oct. au 1er nov., plus le lundi 12 oct.",
    "id": "halloween-animaliere-du-zoo-de-granby--granby",
-   "lat": 45.4009,
-   "lng": -72.7332
+   "lieu": "Zoo de Granby",
+   "coordsPrecises": true,
+   "lat": 45.41814,
+   "lng": -72.72348
   },
   {
    "nom": "Frissons d'Halloween au Jardin botanique",
@@ -2743,8 +3111,11 @@
    "organisateur": "Espace pour la vie",
    "source": "https://calendrier.espacepourlavie.ca/frissons-dhalloween",
    "id": "frissons-d-halloween-au-jardin-botanique--montreal",
-   "lat": 45.5017,
-   "lng": -73.5673
+   "lieu": "Jardin botanique de Montréal",
+   "adresse": "4101, rue Sherbrooke Est, Montréal",
+   "coordsPrecises": true,
+   "lat": 45.55695,
+   "lng": -73.55652
   },
   {
    "nom": "Train fantôme d'Exporail",
@@ -2765,8 +3136,11 @@
    "source": "https://exporail.org/activites/fantomes-ferroviaires-clin-doeil-a-lhalloween/",
    "infos": "Les 24, 25 et 31 octobre et le 1er novembre seulement.",
    "id": "train-fantome-d-exporail--saint-constant",
-   "lat": 45.367,
-   "lng": -73.567
+   "lieu": "Exporail, le Musée ferroviaire canadien",
+   "adresse": "110, rue Saint-Pierre, Saint-Constant",
+   "coordsPrecises": true,
+   "lat": 45.37511,
+   "lng": -73.56421
   },
   {
    "nom": "Labyrinthe hanté",
@@ -2787,6 +3161,8 @@
    "organisateur": "Labyrinthe Coureur des bois",
    "source": "https://tourismemauricie.com/blogue/halloween-en-mauricie-activites-et-sorties-frissonnantes",
    "id": "labyrinthe-hante--saint-mathieu-du-parc",
+   "lieu": "Labyrinthe Coureur des bois",
+   "coordsPrecises": false,
    "lat": 46.583,
    "lng": -72.917
   },
@@ -2809,8 +3185,11 @@
    "source": "https://voilaquebec.com/evenement/halloween-a-l-aquarium-du-quebec-octobre-2026/",
    "infos": "Journées costumées les 30 et 31 oct. et le 1er nov.",
    "id": "halloween-a-l-aquarium-du-quebec--quebec",
-   "lat": 46.8139,
-   "lng": -71.208
+   "lieu": "Aquarium du Québec",
+   "adresse": "1675, avenue des Hôtels, Québec",
+   "coordsPrecises": true,
+   "lat": 46.75152,
+   "lng": -71.28822
   },
   {
    "nom": "Soirée Halloween au Parc Oméga",
@@ -2830,8 +3209,11 @@
    "source": "https://www.parcomega.ca/halloween/",
    "infos": "De 18 h à 21 h 30.",
    "id": "soiree-halloween-au-parc-omega--montebello",
-   "lat": 45.65,
-   "lng": -74.933
+   "lieu": "Parc Oméga",
+   "adresse": "399, route 323 Nord, Montebello",
+   "coordsPrecises": true,
+   "lat": 45.6934,
+   "lng": -74.96033
   },
   {
    "nom": "Circus Papyrus au Musée Boréalis",
@@ -2852,8 +3234,10 @@
    "source": "https://www.borealis3r.ca/activite/circus-papyrus/",
    "infos": "Les 24, 25 et 31 oct. et le 1er nov., départs à 10 h 30, 13 h et 15 h.",
    "id": "circus-papyrus-au-musee-borealis--trois-rivieres",
-   "lat": 46.3432,
-   "lng": -72.5432
+   "lieu": "Musée Boréalis",
+   "coordsPrecises": true,
+   "lat": 46.34836,
+   "lng": -72.53221
   },
   {
    "nom": "Exposition agricole de la MRC de Bécancour",
@@ -2873,8 +3257,11 @@
    "source": "https://expomrcbecancour.com/",
    "infos": "Dates 2026 tirées du calendrier des expositions agricoles du Québec (Vivre à la campagne / AEAQ).",
    "id": "exposition-agricole-de-la-mrc-de-becancour--becancour",
-   "lat": 46.333,
-   "lng": -72.433
+   "lieu": "Site de l'Expo, à Saint-Pierre-les-Becquets",
+   "adresse": "185, route 218, Saint-Pierre-les-Becquets",
+   "coordsPrecises": true,
+   "lat": 46.48743,
+   "lng": -72.18349
   },
   {
    "nom": "Exposition agricole de Trois-Rivières",
@@ -2894,8 +3281,12 @@
    "source": "https://expotr.ca/",
    "infos": "Dates 2026 tirées du calendrier des expositions agricoles du Québec (Vivre à la campagne / AEAQ).",
    "id": "exposition-agricole-de-trois-rivieres--trois-rivieres",
-   "lat": 46.3432,
-   "lng": -72.5432
+   "lieu": "Parc de l'Exposition",
+   "adresse": "1760, avenue Gilles-Villeneuve, Trois-Rivières",
+   "lieuSource": "https://www.tourismetroisrivieres.com/fr/quoi-faire/expotr",
+   "coordsPrecises": true,
+   "lat": 46.34689,
+   "lng": -72.55562
   },
   {
    "nom": "Exposition agricole de Calixa-Lavallée",
@@ -2915,8 +3306,11 @@
    "source": "http://www.expocalixa.com/",
    "infos": "Dates 2026 tirées du calendrier des expositions agricoles du Québec (Vivre à la campagne / AEAQ).",
    "id": "exposition-agricole-de-calixa-lavallee--calixa-lavallee",
-   "lat": 45.75,
-   "lng": -73.283
+   "lieu": "Site d'exposition",
+   "adresse": "602-A, chemin de la Beauce, Calixa-Lavallée",
+   "coordsPrecises": true,
+   "lat": 45.7678,
+   "lng": -73.25966
   },
   {
    "nom": "Expo Lachute Fair",
@@ -2936,8 +3330,11 @@
    "source": "https://expolachutefair.com/",
    "infos": "Dates 2026 tirées du calendrier des expositions agricoles du Québec (Vivre à la campagne / AEAQ).",
    "id": "expo-lachute-fair--lachute",
-   "lat": 45.65,
-   "lng": -74.333
+   "lieu": "Terrain de l'Expo",
+   "adresse": "399, rue Gougeon, Lachute",
+   "coordsPrecises": true,
+   "lat": 45.65626,
+   "lng": -74.35509
   },
   {
    "nom": "Expo du Bassin de la Chaudière",
@@ -2957,8 +3354,10 @@
    "source": "https://expobassinchaudiere.com/",
    "infos": "Dates 2026 tirées du calendrier des expositions agricoles du Québec (Vivre à la campagne / AEAQ).",
    "id": "expo-du-bassin-de-la-chaudiere--saint-isidore",
-   "lat": 46.583,
-   "lng": -71.083
+   "adresse": "132, route Coulombe, Saint-Isidore",
+   "coordsPrecises": true,
+   "lat": 46.58529,
+   "lng": -71.08294
   },
   {
    "nom": "Exposition agricole de Rimouski",
@@ -2979,8 +3378,12 @@
    "source": "https://www.exporimouski.com/",
    "infos": "Dates 2026 tirées du calendrier des expositions agricoles du Québec (Vivre à la campagne / AEAQ).",
    "id": "exposition-agricole-de-rimouski--rimouski",
-   "lat": 48.4489,
-   "lng": -68.5233
+   "lieu": "Terrain de la Société d'agriculture",
+   "adresse": "317, avenue de la Cathédrale, Rimouski",
+   "lieuSource": "https://www.quebecvacances.com/fr/evenements/exposition-agricole-de-rimouski",
+   "coordsPrecises": true,
+   "lat": 48.4459,
+   "lng": -68.51948
   },
   {
    "nom": "Exposition agricole de Beauce",
@@ -3000,8 +3403,10 @@
    "source": "https://www.expobeauce.com/",
    "infos": "Dates 2026 tirées du calendrier des expositions agricoles du Québec (Vivre à la campagne / AEAQ).",
    "id": "exposition-agricole-de-beauce--saint-honore-de-shenley",
-   "lat": 45.967,
-   "lng": -70.817
+   "adresse": "451, rue Ennis, Saint-Honoré-de-Shenley",
+   "coordsPrecises": true,
+   "lat": 45.96394,
+   "lng": -70.82962
   },
   {
    "nom": "Exposition agricole de Bedford",
@@ -3021,8 +3426,12 @@
    "source": "https://www.expobedford.com/",
    "infos": "Dates 2026 tirées du calendrier des expositions agricoles du Québec (Vivre à la campagne / AEAQ).",
    "id": "exposition-agricole-de-bedford--bedford",
-   "lat": 45.117,
-   "lng": -72.983
+   "lieu": "Terrain de l'Exposition",
+   "adresse": "16, rue Philippe-Côté, Bedford",
+   "lieuSource": "https://sortirauquebec.com/en/listing/trade-show-fair/bedford-fair/",
+   "coordsPrecises": true,
+   "lat": 45.119,
+   "lng": -72.994
   },
   {
    "nom": "Expo Ayer's Cliff",
@@ -3042,8 +3451,10 @@
    "source": "https://www.ayersclifffair.com/fr/",
    "infos": "Dates 2026 tirées du calendrier des expositions agricoles du Québec (Vivre à la campagne / AEAQ).",
    "id": "expo-ayer-s-cliff--ayer-s-cliff",
-   "lat": 45.167,
-   "lng": -72.05
+   "adresse": "977, Main Street, Ayer's Cliff",
+   "coordsPrecises": true,
+   "lat": 45.17004,
+   "lng": -72.03981
   },
   {
    "nom": "Expo Brome Fair",
@@ -3063,8 +3474,10 @@
    "source": "https://bromefair.com/fr/expo/",
    "infos": "Dates 2026 tirées du calendrier des expositions agricoles du Québec (Vivre à la campagne / AEAQ).",
    "id": "expo-brome-fair--lac-brome",
-   "lat": 45.18,
-   "lng": -72.57
+   "adresse": "345, chemin Stagecoach, Lac-Brome",
+   "coordsPrecises": true,
+   "lat": 45.16723,
+   "lng": -72.48712
   },
   {
    "nom": "Exposition agricole de Richmond",
@@ -3084,8 +3497,12 @@
    "source": "https://www.exporichmondfair.com/fr/",
    "infos": "Dates 2026 tirées du calendrier des expositions agricoles du Québec (Vivre à la campagne / AEAQ).",
    "id": "exposition-agricole-de-richmond--richmond",
-   "lat": 45.667,
-   "lng": -72.15
+   "lieu": "Terrain de l'Expo, à Cleveland (sortie 88 de l'autoroute 55)",
+   "adresse": "128, route 143, Cleveland",
+   "lieuSource": "https://www.quebecvacances.com/en/events/exposition-agricole-de-richmond",
+   "coordsPrecises": true,
+   "lat": 45.63759,
+   "lng": -72.11863
   },
   {
    "nom": "Festival International des Rythmes du Monde",
@@ -3105,8 +3522,11 @@
    "source": "https://www.quebecvacances.com/en/events/festival-international-des-rythmes-du-monde",
    "infos": "À la zone portuaire de Chicoutimi.",
    "id": "festival-international-des-rythmes-du-monde--saguenay",
-   "lat": 48.4284,
-   "lng": -71.068
+   "lieu": "Zone portuaire de Chicoutimi",
+   "adresse": "49, rue Lafontaine, Saguenay",
+   "coordsPrecises": true,
+   "lat": 48.43012,
+   "lng": -71.05953
   },
   {
    "nom": "FME — Festival de musique émergente",
@@ -3126,8 +3546,11 @@
    "source": "https://tourismerouyn-noranda.ca/en/repertoire/what-to-do/fme/",
    "infos": "Toujours la fin de semaine de la fête du Travail.",
    "id": "fme-festival-de-musique-emergente--rouyn-noranda",
-   "lat": 48.2333,
-   "lng": -79.0167
+   "lieu": "Centre-ville (billetterie à l'Agora des Arts)",
+   "adresse": "170, avenue Murdoch, Rouyn-Noranda",
+   "coordsPrecises": true,
+   "lat": 48.24663,
+   "lng": -79.01673
   },
   {
    "nom": "Les Francos de Montréal",
@@ -3147,8 +3570,11 @@
    "source": "https://www.mtl.org/en/experience/francos-montreal",
    "infos": "37e édition ; spectacle d'avant-ouverture le 11 juin au Centre Bell.",
    "id": "les-francos-de-montreal--montreal",
-   "lat": 45.5017,
-   "lng": -73.5673
+   "lieu": "Place des Festivals, Quartier des spectacles",
+   "lieuSource": "https://www.quebecvacances.com/fr/evenements/francos-de-montreal",
+   "coordsPrecises": true,
+   "lat": 45.50744,
+   "lng": -73.56737
   },
   {
    "nom": "Montréal en Lumière",
@@ -3168,8 +3594,12 @@
    "source": "https://montrealenlumiere.com/fr",
    "infos": "Dates 2027 annoncées sur le site officiel.",
    "id": "montreal-en-lumiere--montreal",
-   "lat": 45.5017,
-   "lng": -73.5673
+   "lieu": "Place des Festivals, Quartier des spectacles (site extérieur gratuit)",
+   "adresse": "1499, rue Jeanne-Mance, Montréal",
+   "lieuSource": "https://www.canada.ca/fr/developpement-economique-regions-quebec/nouvelles/2022/02/la-place-des-festivals-a-montreal-devient-le-cur-festif-de-montreal-en-lumiere.html",
+   "coordsPrecises": true,
+   "lat": 45.50782,
+   "lng": -73.56693
   },
   {
    "nom": "Igloofest Gatineau",
@@ -3189,8 +3619,12 @@
    "source": "https://igloofest.ca/en",
    "infos": "Escale de la tournée Igloofest 2027.",
    "id": "igloofest-gatineau--gatineau",
-   "lat": 45.4765,
-   "lng": -75.7013
+   "lieu": "Place des Festivals Zibi",
+   "adresse": "60, rue Jos-Montferrand, Gatineau",
+   "lieuSource": "https://www.ottawafestivals.ca/calendar/igloofest",
+   "coordsPrecises": true,
+   "lat": 45.42453,
+   "lng": -75.71661
   },
   {
    "nom": "Festival de la Gourgane d'Albanel",
@@ -3210,8 +3644,12 @@
    "source": "https://ici.radio-canada.ca/nouvelle/2271175/programamtion-fete-spectacle",
    "infos": "50e édition en 2026, environ 30 000 festivaliers attendus.",
    "id": "festival-de-la-gourgane-d-albanel--albanel",
-   "lat": 48.883,
-   "lng": -72.45
+   "lieu": "Plusieurs lieux dans le village",
+   "adresse": "311, rue de l'Église, Albanel",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festivals-and-gatherings/festival-de-la-gourgane/",
+   "coordsPrecises": true,
+   "lat": 48.8813,
+   "lng": -72.44414
   },
   {
    "nom": "Festival de l'Érable de Plessisville",
@@ -3232,8 +3670,12 @@
    "source": "https://www.festivaldelerable.com/programmation",
    "infos": "68e édition. Habituellement fin avril – début mai.",
    "id": "festival-de-l-erable-de-plessisville--plessisville",
-   "lat": 46.217,
-   "lng": -71.767
+   "lieu": "Amphithéâtre Léo-Paul-Boutin",
+   "adresse": "1051, rue Saint-Jean, Plessisville",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festivals-and-gatherings/festival-de-lerable-de-plessisville/",
+   "coordsPrecises": true,
+   "lat": 46.21754,
+   "lng": -71.78743
   },
   {
    "nom": "Foire gourmande de l'Abitibi-Témiscamingue",
@@ -3253,8 +3695,10 @@
    "source": "https://ici.radio-canada.ca/nouvelle/2257337/programmation-foire-gourmande-temiscamingue-2026",
    "infos": "Entrée gratuite. En 2026, dans le stationnement de l'aréna de Ville-Marie. Habituellement la 3e fin de semaine d'août.",
    "id": "foire-gourmande-de-l-abitibi-temiscamingue--ville-marie",
-   "lat": 47.333,
-   "lng": -79.433
+   "lieu": "Stationnement de l'aréna Frère-Arthur-Bergeron et de l'hôtel de ville",
+   "coordsPrecises": true,
+   "lat": 47.32845,
+   "lng": -79.43661
   },
   {
    "nom": "Matane en Lumière",
@@ -3274,8 +3718,12 @@
    "source": "https://www.ville.matane.qc.ca/events/festival-matane-en-lumiere-edition-2026/",
    "infos": "Au parc des Îles de Matane.",
    "id": "matane-en-lumiere--matane",
-   "lat": 48.85,
-   "lng": -67.533
+   "lieu": "Parc des Îles",
+   "adresse": "385, rue Bois-Joli, Matane",
+   "lieuSource": "https://www.tourisme-gaspesie.com/en/festivals-and-events/matane-en-lumiere-desjardins/",
+   "coordsPrecises": true,
+   "lat": 48.83132,
+   "lng": -67.53514
   },
   {
    "nom": "Festival en août",
@@ -3295,8 +3743,10 @@
    "organisateur": "Festival en août",
    "source": "https://chibougamauchapais.com/evenements/festival-en-aout/",
    "id": "festival-en-aout--chibougamau",
-   "lat": 49.917,
-   "lng": -74.367
+   "adresse": "3e Rue, Chibougamau",
+   "coordsPrecises": true,
+   "lat": 49.91363,
+   "lng": -74.37118
   },
   {
    "nom": "Festival Folifrets Baie-James",
@@ -3339,6 +3789,8 @@
    "source": "https://festivaldudore.com/",
    "infos": "Dates 2027 annoncées sur le site officiel. Tenu chaque année depuis 1999.",
    "id": "festival-du-dore-baie-james--chapais",
+   "lieu": "Berges du lac Opémisca, à quelques kilomètres de Chapais",
+   "coordsPrecises": false,
    "lat": 49.783,
    "lng": -74.85
   },
@@ -3360,8 +3812,10 @@
    "source": "https://www.bonjourquebec.com/en-gb/listing/events/festivites-western-de-saint-victor/0o84",
    "infos": "Au 130 rue du Parc, Saint-Victor.",
    "id": "festivites-western-de-saint-victor--saint-victor",
-   "lat": 46.15,
-   "lng": -70.9
+   "adresse": "130, rue du Parc, Saint-Victor",
+   "coordsPrecises": true,
+   "lat": 46.1488,
+   "lng": -70.90237
   },
   {
    "nom": "Rendez-vous country de Daveluyville",
@@ -3380,8 +3834,10 @@
    "organisateur": "Festival les rendez-vous country de Daveluyville",
    "source": "https://www.bonjourquebec.com/en/listing/events/festival-les-rendez-vous-country-de-daveluyville/0s0h",
    "id": "rendez-vous-country-de-daveluyville--daveluyville",
-   "lat": 46.1917,
-   "lng": -72.1258
+   "adresse": "1, 9e Avenue, Daveluyville",
+   "coordsPrecises": true,
+   "lat": 46.20189,
+   "lng": -72.13461
   },
   {
    "nom": "Balade gourmande de Victoriaville",
@@ -3401,6 +3857,9 @@
    "source": "https://www.quebecvacances.com/en/events/balade-gourmande",
    "infos": "Sur deux fins de semaine, autour de l'Action de grâce.",
    "id": "balade-gourmande-de-victoriaville--victoriaville",
+   "lieu": "42 producteurs sur 6 circuits (MRC d'Arthabaska et de L'Érable)",
+   "lieuSource": "https://www.quebecvacances.com/fr/evenements/balade-gourmande",
+   "coordsPrecises": false,
    "lat": 46.0532,
    "lng": -71.966
   },
@@ -3444,8 +3903,12 @@
    "source": "https://festivaldufjord.ca/",
    "infos": "Au 51 rue Mayrand, Sacré-Cœur.",
    "id": "festival-du-fjord--sacre-c-ur",
-   "lat": 48.233,
-   "lng": -69.8
+   "lieu": "Centre de vacances Ferme 5 Étoiles",
+   "adresse": "51, rue Mayrand, Sacré-Cœur",
+   "lieuSource": "https://www.quebecvacances.com/fr/evenements/festival-du-fjord",
+   "coordsPrecises": true,
+   "lat": 48.23194,
+   "lng": -69.80431
   },
   {
    "nom": "Festival Blizz'Art",
@@ -3465,8 +3928,10 @@
    "source": "https://www.tourismecote-nord.com/fr/festival-blizzoeart/evenements-et-spectacles/",
    "infos": "Gratuit. Au 50 chemin des Îles. Habituellement début février.",
    "id": "festival-blizz-art--port-cartier",
-   "lat": 50.033,
-   "lng": -66.867
+   "adresse": "50, chemin des Îles, Port-Cartier",
+   "coordsPrecises": true,
+   "lat": 50.01977,
+   "lng": -66.86582
   },
   {
    "nom": "Festival des oiseaux migrateurs de la Côte-Nord",
@@ -3486,6 +3951,8 @@
    "source": "https://www.festivalmigrateurs.com",
    "infos": "16e édition.",
    "id": "festival-des-oiseaux-migrateurs-de-la-cote-nord--les-bergeronnes",
+   "lieu": "Plusieurs sites (Les Bergeronnes, Tadoussac)",
+   "coordsPrecises": false,
    "lat": 48.25,
    "lng": -69.55
   },
@@ -3507,8 +3974,10 @@
    "source": "https://www.tourismecote-nord.com/fr/la-derive/evenements-et-spectacles/",
    "infos": "Une seule journée, gratuite.",
    "id": "la-derive--port-cartier",
-   "lat": 50.033,
-   "lng": -66.867
+   "lieu": "Île McCormick",
+   "coordsPrecises": true,
+   "lat": 50.0212,
+   "lng": -66.86522
   },
   {
    "nom": "Cinoche – Festival du film international de Baie-Comeau",
@@ -3528,8 +3997,12 @@
    "source": "http://www.festivalcinoche.ca",
    "infos": "Au Ciné-Centre, 600 boul. Laflèche. Habituellement la 2e quinzaine de janvier.",
    "id": "cinoche-festival-du-film-international-de-baie-comeau--baie-comeau",
-   "lat": 49.217,
-   "lng": -68.15
+   "lieu": "Ciné-Centre",
+   "adresse": "600, boulevard Laflèche, Baie-Comeau",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festival/cinoche-festival-du-film-international-de-baie-comeau/",
+   "coordsPrecises": true,
+   "lat": 49.20105,
+   "lng": -68.25689
   },
   {
    "nom": "Vague de rires",
@@ -3549,6 +4022,8 @@
    "source": "https://www.vaguederires.com",
    "infos": "Spectacles au chapiteau du parc des Pionniers et dans plusieurs salles de Baie-Comeau.",
    "id": "vague-de-rires--baie-comeau",
+   "lieu": "Plusieurs salles, dont le Centre des arts de Baie-Comeau",
+   "coordsPrecises": false,
    "lat": 49.217,
    "lng": -68.15
   },
@@ -3570,6 +4045,9 @@
    "source": "http://amisdesmontsgroulx.com",
    "infos": "26e édition. Départ au 10 ch. du lac Daigle, Fermont.",
    "id": "grande-corvee-des-monts-groulx--fermont",
+   "lieu": "Sentiers des monts Groulx, route 389 (km 335 et km 365)",
+   "lieuSource": "https://tourismecote-nord.com/en/monts-groulx-mountains/parks-gardens-and-natural-places",
+   "coordsPrecises": false,
    "lat": 52.783,
    "lng": -67.083
   },
@@ -3612,8 +4090,12 @@
    "source": "https://sympobaiecomeau.ca",
    "infos": "37e édition, au Pavillon du Lac.",
    "id": "symposium-de-peinture-de-baie-comeau--baie-comeau",
-   "lat": 49.217,
-   "lng": -68.15
+   "lieu": "Pavillon du Lac",
+   "adresse": "31, avenue Le Gardeur, Baie-Comeau",
+   "lieuSource": "https://sortirauquebec.com/en/listing/festivals-and-gatherings/symposium-de-peinture-de-baie-comeau/",
+   "coordsPrecises": true,
+   "lat": 49.24365,
+   "lng": -68.14887
   },
   {
    "nom": "Festi-GrÎles de la Côte-Nord",
@@ -3633,8 +4115,10 @@
    "source": "https://www.tourismecote-nord.com/fr/le-festi-griles-de-la-cote-nord/evenements-et-spectacles/",
    "infos": "Au parc du Vieux-Quai.",
    "id": "festi-griles-de-la-cote-nord--sept-iles",
-   "lat": 50.2001,
-   "lng": -66.3821
+   "lieu": "Parc du Vieux-Quai",
+   "coordsPrecises": true,
+   "lat": 50.20544,
+   "lng": -66.38867
   },
   {
    "nom": "On JAZZ sous la lune",
@@ -3656,8 +4140,11 @@
    "source": "https://www.tourismecote-nord.com/fr/on-jazz-sous-la-lune/evenements-et-spectacles/",
    "infos": "Trois soirs seulement : 27 juin, 1er août et 29 août 2026, au Centre de découverte du milieu marin.",
    "id": "on-jazz-sous-la-lune--les-escoumins",
-   "lat": 48.35,
-   "lng": -69.383
+   "lieu": "Centre de découverte du milieu marin",
+   "adresse": "41, rue des Pilotes, Les Escoumins",
+   "coordsPrecises": true,
+   "lat": 48.31951,
+   "lng": -69.41329
   },
   {
    "nom": "Festival Fauve Mauve",
@@ -3677,8 +4164,10 @@
    "source": "https://www.tourisme-gaspesie.com/en/festivals-and-events/festival-fauve-mauve/",
    "infos": "Les grands spectacles payants ont lieu les 10 et 11 juillet.",
    "id": "festival-fauve-mauve--sainte-anne-des-monts",
-   "lat": 49.117,
-   "lng": -66.483
+   "adresse": "96, boulevard Sainte-Anne Ouest, Sainte-Anne-des-Monts",
+   "coordsPrecises": true,
+   "lat": 49.12401,
+   "lng": -66.49189
   },
   {
    "nom": "M DGTL",
@@ -3698,8 +4187,10 @@
    "source": "https://www.tourisme-gaspesie.com/en/festivals-and-events/m-dgtl/",
    "infos": "À la plage de Matane, 200 rue du Barachois.",
    "id": "m-dgtl--matane",
-   "lat": 48.85,
-   "lng": -67.533
+   "adresse": "200, rue du Barachois, Matane",
+   "coordsPrecises": true,
+   "lat": 48.85314,
+   "lng": -67.53069
   },
   {
    "nom": "Concours de châteaux de sable des Îles",
@@ -3719,6 +4210,9 @@
    "source": "https://chateauxdesable.com/en/home/",
    "infos": "40e et DERNIÈRE édition annoncée par les organisateurs.",
    "id": "concours-de-chateaux-de-sable-des-iles--havre-aubert-les-iles-de-la-madeleine",
+   "lieu": "Plage du Sandy Hook",
+   "lieuSource": "https://www.tourismeilesdelamadeleine.com/en/chateaux-de-sable-des-iles/festivals-and-events/",
+   "coordsPrecises": false,
    "lat": 47.2231,
    "lng": -61.8422
   },
@@ -3740,8 +4234,12 @@
    "source": "https://www.grandprixvalcourt.com/en/",
    "infos": "45e anniversaire en 2027. Toujours la 2e fin de semaine de février.",
    "id": "grand-prix-ski-doo-de-valcourt--valcourt",
-   "lat": 45.5,
-   "lng": -72.317
+   "lieu": "Circuit Yvon-Duhamel",
+   "adresse": "917, route 222, Valcourt",
+   "lieuSource": "https://snocross.com/?p=43278",
+   "coordsPrecises": true,
+   "lat": 45.55624,
+   "lng": -72.32589
   }
  ]
 }
